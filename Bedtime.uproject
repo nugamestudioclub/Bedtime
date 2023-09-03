@@ -17,6 +17,15 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "Metasound",
+			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"IOS",
+		"Linux",
+		"Windows"
 	]
 }
